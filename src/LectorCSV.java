@@ -6,7 +6,7 @@ import com.opencsv.CSVReader;
  * @autor Raul Vara
  */
 
-public class lectorCSV {
+public class LectorCSV {
 
     public void leerCsv(String nombreArchivo){
         try{
